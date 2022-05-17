@@ -1,0 +1,5 @@
+[33mremotion:lint: [0mcache hit, replaying output [2m2aba6b6ee9194c15[0m
+[33mremotion:lint: [0m
+[33mremotion:lint: [0m> remotion@3.0.7 lint /Users/petercvek/Projects/Influee/remotion/packages/core
+[33mremotion:lint: [0m> eslint src --ext ts,tsx
+[33mremotion:lint: [0m
